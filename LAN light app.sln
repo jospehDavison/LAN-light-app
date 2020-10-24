@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAN light app", "LAN light app\LAN light app.csproj", "{FB14E5E5-5D36-416A-9D4D-AA87C7AD70D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB14E5E5-5D36-416A-9D4D-AA87C7AD70D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB14E5E5-5D36-416A-9D4D-AA87C7AD70D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB14E5E5-5D36-416A-9D4D-AA87C7AD70D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB14E5E5-5D36-416A-9D4D-AA87C7AD70D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF33323-7496-4E5C-894E-CB8D7294BC81}
+	EndGlobalSection
+EndGlobal
